@@ -1,5 +1,5 @@
 # cab-service
-here is a program that provides cab service for womens only 
+A cab booking system prototype designed around women's safety — built as a learning project exploring booking flows and verification logic.
 import datetime
 
 class Passenger:
